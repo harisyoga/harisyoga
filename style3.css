@@ -1,0 +1,38 @@
+body {
+    height: 20000px;
+}
+
+.container {
+    background-color: whitesmoke;
+    margin: 100px;
+    height: 100%;
+    
+}
+
+.header {
+    font-family: 'Times New Roman';
+    padding: 5px;
+}
+
+.box1 {
+    width: 55%;
+    height: 450px;
+    float: left;
+    padding: 5px;
+    background-color: lightskyblue;
+}
+
+.box2 {
+    width: 35%;
+    height: 450px;
+    padding-right: 5px;
+    background-color: lightgreen;
+    display: inline-block;
+    float: right;
+}
+
+.box3 {
+    width: 150px;
+    height: 150px;
+    background-color: lightcoral;
+}
